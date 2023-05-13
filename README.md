@@ -2,6 +2,7 @@
 This course is part of the TensorFlow: Advanced techniques specialization offered by DeepLearning.AI.
 https://www.coursera.org/specializations/tensorflow-advanced-techniques
 
+I have uploaded the assignments that I have done throughout this course. 
 This course covers advanced techniques for building neural network models using TensorFlow, including:
 
 Comparing and contrasting the Functional and Sequential APIs to discover new models that can be built with the Functional API. This includes building a model that produces multiple outputs, such as a Siamese network.
